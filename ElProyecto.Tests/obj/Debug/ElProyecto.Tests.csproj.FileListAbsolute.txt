@@ -1,0 +1,8 @@
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\bin\Debug\ElProyecto.Tests.dll.config
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\bin\Debug\ElProyecto.Tests.dll
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\bin\Debug\ElProyecto.Tests.pdb
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\bin\Debug\ElProyecto.dll
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\bin\Debug\ElProyecto.pdb
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\obj\Debug\ElProyecto.Tests.csprojResolveAssemblyReference.cache
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\obj\Debug\ElProyecto.Tests.dll
+D:\ElProyecto\ElProyecto\ElProyecto.Tests\obj\Debug\ElProyecto.Tests.pdb

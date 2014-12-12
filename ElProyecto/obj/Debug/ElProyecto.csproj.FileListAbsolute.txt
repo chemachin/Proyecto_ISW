@@ -1,0 +1,5 @@
+D:\ElProyecto\ElProyecto\ElProyecto\bin\ElProyecto.dll
+D:\ElProyecto\ElProyecto\ElProyecto\bin\ElProyecto.pdb
+D:\ElProyecto\ElProyecto\ElProyecto\obj\Debug\ElProyecto.csprojResolveAssemblyReference.cache
+D:\ElProyecto\ElProyecto\ElProyecto\obj\Debug\ElProyecto.dll
+D:\ElProyecto\ElProyecto\ElProyecto\obj\Debug\ElProyecto.pdb
