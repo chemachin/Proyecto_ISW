@@ -6,6 +6,6 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-    <h2>Datos que quiro mostrar</h2>
+    <h2>Datos que quiero mostrar</h2>
 
 </asp:Content>
